@@ -6,11 +6,11 @@
     "resources": [
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "jkimlinuxstacct",
+            "name": "bjplab1stacct",
             "apiVersion": "2015-06-15",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "jkimlinuxstacct"
+                "displayName": "bjplab1stacct"
             },
             "properties": {
                 "accountType": "Standard_LRS"
